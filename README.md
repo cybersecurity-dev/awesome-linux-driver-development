@@ -8,10 +8,11 @@
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
 </p>
 
-In Linux, drivers are categorized based on the type of device or functionality they manage. The driver types are:
-* [Character Drivers](https://linux-kernel-labs.github.io/refs/heads/master/labs/device_drivers.html)
-* [Block Drivers](https://linux-kernel-labs.github.io/refs/heads/master/labs/block_device_drivers.html)
-* [Network Drivers](https://linux-kernel-labs.github.io/refs/heads/master/labs/networking.html)
+In Linux, drivers are categorized based on the type of device or functionality they manage. 
+* The device driver types are:
+    * [Character Device](https://linux-kernel-labs.github.io/refs/heads/master/labs/device_drivers.html)
+    * [Block Device](https://linux-kernel-labs.github.io/refs/heads/master/labs/block_device_drivers.html)
+    * [Network Device](https://linux-kernel-labs.github.io/refs/heads/master/labs/networking.html)
 * Other Drivers
     * File System Drivers
     * Virtual Drivers
