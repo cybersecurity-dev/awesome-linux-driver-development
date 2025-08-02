@@ -34,6 +34,11 @@ In Linux, drivers are categorized based on the type of device or functionality t
 
 ## 2. [User-Space](https://en.wikipedia.org/wiki/User_space_and_kernel_space) Driver
 
-
-
+## 3. Miscellaneous
+- [https://lxr.linux.no/](https://lxr.linux.no/) - Linux source code repositories.
+- [https://elixir.bootlin.com/](https://elixir.bootlin.com/linux) - Linux source code repositories.
+- [https://kernelnewbies.org/](https://kernelnewbies.org/)
+- [https://www.kernel.org/doc/html/latest/](https://www.kernel.org/doc/html/latest/)
+- [https://lwn.net/](https://lwn.net/)
+- [https://embetronicx.com/](https://embetronicx.com/)
 
