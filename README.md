@@ -8,3 +8,31 @@
     <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
 </p>
 
+In Linux, drivers are categorized based on the type of device or functionality they manage. The driver types are:
+* [Character Drivers](https://linux-kernel-labs.github.io/refs/heads/master/labs/device_drivers.html)
+* [Block Drivers](https://linux-kernel-labs.github.io/refs/heads/master/labs/block_device_drivers.html)
+* [Network Drivers](https://linux-kernel-labs.github.io/refs/heads/master/labs/networking.html)
+* Other Drivers
+    * File System Drivers
+    * Virtual Drivers
+    * Platform Drivers
+    * Pseudo Drivers
+    * User-Space Drivers
+
+## 1. [Kernel](https://linux-kernel-labs.github.io/refs/heads/master/)-Space Driver
+
+### 1.1 Device [Driver](https://www.kernel.org/doc/html/v6.16/driver-api/index.html)
+
+#### Programming Guide
+- [Tutorial for Linux Driver Development](https://www.apriorit.com/dev-blog/195-simple-driver-for-linux-os)
+
+### 1.2 [Kernel](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/kernel_administration_guide) [Module](https://en.wikipedia.org/wiki/Loadable_kernel_module)
+
+#### Programming Guide
+ - [Linux Kernel Module](https://github.com/sysprog21/lkmpg) - The Linux Kernel Module [Programming](https://sysprog21.github.io/lkmpg) Guide
+
+## 2. User-Space Driver
+
+
+
+
