@@ -1,11 +1,14 @@
-<p align="center">
-    <a href="https://en.wikipedia.org/wiki/Category:Linux_drivers">
-      <img width="15%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
-    </a>
-</p>
+<div align="center">
+    <p align="center">
+        <a href="https://en.wikipedia.org/wiki/Category:Linux_drivers">
+          <img width="10%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Tux.svg" />
+        </a>
+    </p>
 
-# Awesome [Linux](https://en.wikipedia.org/wiki/Linux_kernel_interfaces) [Driver](https://en.wikipedia.org/wiki/Driver_(software)) [Development](https://en.wikipedia.org/wiki/Device_driver) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://en.wikipedia.org/wiki/Linux_kernel_version_history)
+# `Awesome` [Linux](https://wikipedia.org/wiki/Linux_kernel_interfaces) [Driver](https://en.wikipedia.org/wiki/Driver_(software)) [Development](https://en.wikipedia.org/wiki/Device_driver) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+</div>
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://wikipedia.org/wiki/Linux_kernel_version_history)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiU9ZlPeiXjNTB_mCFsOeduk&si=_ji5HJWktP3IRnBw)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/r/kernel/)
 
