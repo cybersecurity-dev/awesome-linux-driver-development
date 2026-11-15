@@ -184,6 +184,8 @@ In Linux, drivers are categorized based on the type of device or functionality t
 
 ## 2. [User-Space](https://en.wikipedia.org/wiki/User_space_and_kernel_space) Driver
 
+- [usb-rea](https://github.com/emirmrkaljevic/usb-rea) - MCP server and CLI that infers a USB device's protocol from a Wireshark/USBPcap capture of the vendor's Windows app and generates a user-space Linux driver (standalone pyusb script).
+
 ## 3. Miscellaneous
 - [https://lxr.linux.no/](https://lxr.linux.no/) - Linux source code repositories.
 - [https://elixir.bootlin.com/](https://elixir.bootlin.com/linux) - Linux source code repositories.
